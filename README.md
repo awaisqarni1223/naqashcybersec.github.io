@@ -1,4 +1,4 @@
-# naqashcybersec.github.io
+#NaqashCyberSec
 👨‍💻 Hi, I’m Naqash – IT & Computer Science Expert | Lecturer | Cybersecurity Instructor
 
 With 4+ years of teaching experience, I’m passionate about empowering students with cutting-edge tech skills. Currently, I serve as a Computer Science Lecturer 🎓 at Orbit Group of Colleges (Main Campus, Thandkoi, Swabi), where I train the next generation of IT professionals.
